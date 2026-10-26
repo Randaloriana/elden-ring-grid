@@ -248,7 +248,7 @@ opening a support request.
 
 ---
 
-*elden-ring-grid · Updated 2026-10-25 · Shared under the MIT License*
+*elden-ring-grid · Updated 2026-10-26 · Shared under the MIT License*
 
 
-*Last updated: 2026-10-25*
+*Last updated: 2026-10-26*

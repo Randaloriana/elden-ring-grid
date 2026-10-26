@@ -248,4 +248,4 @@ opening a support request.
 
 ---
 
-*elden-ring-grid · Updated 2026-10-25 · Shared under the MIT License*
+*elden-ring-grid · Updated 2026-10-26 · Shared under the MIT License*
